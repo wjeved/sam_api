@@ -7,7 +7,7 @@ const iconv = require("iconv-lite");
 const pool = mysql.createPool({
  	host: '118.67.132.68',
  	user: 'root',
- 	password: '1234qwer',
+ 	password: 'J9idnn=g5n',
  	database: 'nv'
 });
 
