@@ -418,7 +418,7 @@ const setInquireData= async (did, idx, content) => {
 
 			var mailOptions = {
 			  from: 'yskimoda@gmail.com',
-			  to: 'iysya@naver.com',
+			  to: 'wjis23@wjis.co.kr',
 			  subject: '우진산전 어플리케이션 - 제품 문의',
 			  text: html
 			};
